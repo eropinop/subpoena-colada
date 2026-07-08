@@ -1,16 +1,16 @@
-# Sua Sponte
+# Subpoena Colada
 
-*"Of one's own accord."* A litigation toolkit for people representing themselves - built to make filings that hold up.
+*Litigation prep that goes down smooth - and holds up in court.*
 
 A complete workflow for preparing court filings without counsel - from case setup through the final pre-filing gate. Built to be jurisdiction-aware: every skill reads a per-case profile so output matches your state, county, court, and judge. Packaged as a Claude plugin (Cowork / Claude Code).
 
 ## Install
 
-Zip the repo contents so `.claude-plugin/plugin.json` sits at the zip root, name it `sua-sponte.plugin`, and share it in a Claude Cowork chat to install:
+Zip the repo contents so `.claude-plugin/plugin.json` sits at the zip root, name it `subpoena-colada.plugin`, and share it in a Claude Cowork chat to install:
 
 ```bash
-git clone https://github.com/eropinop/sua-sponte && cd sua-sponte
-zip -r sua-sponte.plugin . -x "*.git*"
+git clone https://github.com/eropinop/subpoena-colada && cd subpoena-colada
+zip -r subpoena-colada.plugin . -x "*.git*"
 ```
 
 ## Workflow
